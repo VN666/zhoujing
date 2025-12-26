@@ -1,0 +1,7 @@
+{
+  "name": "Supervision 2.0",
+  "description": "Enterprise supervision and inspection system featuring multi-role support, rectification tracking, data dashboards, and routine store management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
